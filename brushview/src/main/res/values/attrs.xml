@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="BrushView">
+        <attr name="brush_size" format="integer"/>
+        <attr name="brush_color" format="color"/>
+        <attr name="brush_alpha" format="integer"/>
+    </declare-styleable>
+
+</resources>

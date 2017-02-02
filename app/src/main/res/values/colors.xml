@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="AliceBlue">#F0F8FF</color>
+    <color name="AntiqueWhite">#FAEBD7</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="Aqua">#00FFFF</color>
+    <color name="Aquamarine">#7FFFD4</color>
+    <color name="Azure">#F0FFFF</color>
+    <color name="Beige">#F5F5DC</color>
+    <color name="Bisque">#FFE4C4</color>
+    <color name="black">#000000</color>
+    <color name="Black">#000000</color>
+    <color name="BlanchedAlmond">#FFEBCD</color>
+    <color name="Blue">#0000FF</color>
+    <color name="BlueViolet">#8A2BE2</color>
+    <color name="Brown">#A52A2A</color>
+    <color name="BurlyWood">#DEB887</color>
+    <color name="CadetBlue">#5F9EA0</color>
+    <color name="Chartreuse">#7FFF00</color>
+    <color name="Chocolate">#D2691E</color>
+    <color name="Coral">#FF7F50</color>
+    <color name="CornflowerBlue">#6495ED</color>
+    <color name="Cornsilk">#FFF8DC</color>
+    <color name="Crimson">#DC143C</color>
+    <color name="Cyan">#00FFFF</color>
+    <color name="DarkBlue">#00008B</color>
+    <color name="DarkCyan">#008B8B</color>
+    <color name="DarkGoldenrod">#B8860B</color>
+    <color name="DarkGray">#A9A9A9</color>
+    <color name="DarkGreen">#006400</color>
+    <color name="DarkKhaki">#BDB76B</color>
+    <color name="DarkMagenta">#8B008B</color>
+    <color name="DarkOliveGreen">#556B2F</color>
+
+    <array name="colors">
+        <item>@color/colorPrimary</item>
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorAccent</item>
+        <item>@color/AliceBlue</item>
+        <item>@color/AntiqueWhite</item>
+        <item>@color/aqua</item>
+        <item>@color/Aqua</item>
+        <item>@color/Aquamarine</item>
+        <item>@color/Azure</item>
+        <item>@color/Beige</item>
+        <item>@color/Bisque</item>
+        <item>@color/black</item>
+        <item>@color/Black</item>
+        <item>@color/BlanchedAlmond</item>
+        <item>@color/Blue</item>
+        <item>@color/BlueViolet</item>
+        <item>@color/Brown</item>
+        <item>@color/BurlyWood</item>
+        <item>@color/CadetBlue</item>
+        <item>@color/Chartreuse</item>
+        <item>@color/Chocolate</item>
+        <item>@color/Coral</item>
+        <item>@color/CornflowerBlue</item>
+        <item>@color/Cornsilk</item>
+        <item>@color/Crimson</item>
+        <item>@color/Cyan</item>
+        <item>@color/DarkBlue</item>
+        <item>@color/DarkCyan</item>
+        <item>@color/DarkGoldenrod</item>
+        <item>@color/DarkGray</item>
+        <item>@color/DarkGreen</item>
+        <item>@color/DarkKhaki</item>
+        <item>@color/DarkMagenta</item>
+        <item>@color/DarkOliveGreen</item>
+    </array>
+</resources>
