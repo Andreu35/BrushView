@@ -89,9 +89,11 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+### App using BrushView
+<a href="https://play.google.com/store/apps/details?id=com.are.cards"><img src="https://lh3.googleusercontent.com/KHZIzUQwO4HkqYaJvcn9QlbOcA7fd01BD6Pqli__qSqRmyvQi0j6r2-J1S4AAZOIE6e6=w300-rw" width="50px" height="50px"></a></br>  Cards
 
-License
---------
+### License
+
     Copyright (C) 2017 Andreu35
 
     Licensed under the Apache License, Version 2.0 (the "License");
