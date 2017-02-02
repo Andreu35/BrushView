@@ -2,8 +2,8 @@
   
   Simple View to change Brush Size, Alpha and Color
 
-# Screenshots
-<img src=""/>
+### Screenshots
+<img src="https://github.com/Andreu35/BrushView/blob/master/screenshots/Screenshot_20170202-171734.png" width="170px" height="300px"/>  <img src="https://github.com/Andreu35/BrushView/blob/master/screenshots/Screenshot_20170202-171741.png" width="170px" height="300px"/>  <img src="https://github.com/Andreu35/BrushView/blob/master/screenshots/Screenshot_20170202-171746.png" width="170px" height="300px"/>  <img src="https://github.com/Andreu35/BrushView/blob/master/screenshots/Screenshot_20170202-171801.png" width="170px" height="300px"/>
 
 # How to install
   
